@@ -1,4 +1,10 @@
-![Stats should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=Core-Quest&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Core-Quest&theme=dark) 
+
+
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Core-Quest&theme=dark)
+
+
+
 
 
 # Helloo!
