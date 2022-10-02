@@ -8,8 +8,7 @@
 
 
 # Helloo!
-My name is Core im a fairly new developer  who makes Beat Saber (Quest) Mods. and Recently lost my dad who studied Computer Science so I will work till i become better then him
-if you would like to support please [Donate](https://www.paypal.com/donate?business=4UHPTGHQ8RHUU&no_recurring=0&item_name=Donate&currency_code=USD) It will help my mom and my 2 other siblings.
+My name is Core im a fairly new developer  who makes Beat Saber (Quest) Mods.
 ### RIP Oct 7 2021
 
 # Programming
