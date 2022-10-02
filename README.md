@@ -14,7 +14,7 @@ My name is Core im a fairly new developer  who makes Beat Saber (Quest) Mods.
 # Programming
 
 ### Python
-I used this to learn the basics but got kinda addicted and Now making Sketch.
+I used this to learn the basics but got kinda addicted and Now making basically everything.
 
 ### CPP or C++
 I Use this for Game dev and Quest beat Saber Mods
@@ -35,9 +35,7 @@ Fairly New so not much knowledge but making website in it so yeah.
 I am a Neewbie
 
 # What Am I working on?
-* Rainbow For Quest
-* Claws for Quest
-* Merging [No-Boom](https://github.com/Core-Quest/No-Boom) and [BurnMarkQeeper](https://github.com/Core-Quest/Burn-Mark-Qeeper) into [AddedModifiers](https://github.com/Core-Quest/AddedModifiers) upon some rq
+* MoreByCore
 
 
 # Contact me
