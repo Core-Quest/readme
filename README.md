@@ -44,7 +44,7 @@ I am a very new and dont know to much
 
 # Contact me
 ### Email:
-* coreweb6@gmail.com
+* chelseaontop08@gmail.com
 ### Discord:
 * Core#6969
 
