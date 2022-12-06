@@ -46,7 +46,7 @@ I am a very new and dont know to much
 ### Email:
 * coreweb6@gmail.com
 ### Discord:
-* Core#9790
+* Core#6969
 
 
 # Donate
