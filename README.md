@@ -8,7 +8,7 @@
 
 
 # Helloo!
-My name is Core im a fairly new developer  who makes Beat Saber (Quest) Mods.
+I make Mod for quest, Im working on FiveM resources, I Make discord bots and alot more.
 ### RIP Oct 7 2021
 
 # Programming
