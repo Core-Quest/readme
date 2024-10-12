@@ -7,8 +7,8 @@
 
 
 
-# Helloo!
-I make Mod for quest, Im working on FiveM resources, I Make discord bots and alot more.
+# Hello!
+I make Mods for quest, Im working on FiveM resources, I Make discord bots and alot more.
 ### RIP Oct 7 2021
 
 # Programming
@@ -44,10 +44,8 @@ I am a very new and dont know to much
 
 # Contact me
 ### Email:
-* chelseaontop08@gmail.com
+* ebenulrich12@gmail.com
 ### Discord:
-* Core#6969
+* ramzui#0
 
 
-# Donate
-https://www.paypal.com/donate?business=4UHPTGHQ8RHUU&no_recurring=0&item_name=Donate&currency_code=USD
